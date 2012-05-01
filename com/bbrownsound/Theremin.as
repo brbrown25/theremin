@@ -1,0 +1,1 @@
+﻿package com.bbrownsound {	//Import statements to include the necessary class files	import com.bbrownsound.Tone;	import com.bbrownsound.Wave;		public class Theremin {				//Variables		public function Theremin() {			// constructor code		}				public function play():void{}	}	}
